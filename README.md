@@ -1,21 +1,19 @@
-## Lab 3
+## Lab 4
 
 ### App Description
-This is my Flash Card App
+This is my first Flash Card App
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://media.giphy.com/media/cA6uB9kHybQ1Yaqqme/giphy.gif" width=200><br>
 
 ## Required
-- [ ] User can create a card and still see their created card when the app is relaunched.
-- [ ] User can create muliple cards and browse through all created cards
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Optional
-- [ ] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
